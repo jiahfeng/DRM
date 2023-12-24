@@ -294,7 +294,7 @@ for(N0 in c(200,400)){
           Z.bts <- dat.bts$Z
           
           store.bts <- c()
-          for(eta in space){
+          for(eta in space){ 
             gamma.d <- 0
             alpha.d <- 0
             S <- 0
